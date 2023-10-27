@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Trekeln
-- 👀 I’m interested in videogames, art, and music.
-- 🌱 I’m currently learning... nothing.
-- 💞️ I’m looking to collaborate on FurryMUCK.UI.
-- 📫 Send me a mail at meezyslap@gmail.com or send me a Discord PM at Trekeln#5881.
+- 👀 I’m interested in video games, art, and music.
+- 🌱 I’m currently learning HTML in university.
+- 📫 Send me a mail at meezyslap@gmail.com or send me a Discord PM at trekeln.
 
 <!---
 Trekeln/Trekeln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
