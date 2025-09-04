@@ -1,3 +1,1 @@
-- Hi, my name is Jules, but online I go by Trekeln.
-- I’m interested in video games, art, and music.
-- Send me a mail at meezyslap@gmail.com or send me a Discord PM at trekeln.
+Hi, my name is Jules, and online I go by Trekeln. I'm a graphic designer and work on several projects.
